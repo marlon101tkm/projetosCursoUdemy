@@ -4,17 +4,17 @@
 
 :sparkles: Os Projetos
 ================
-Os projetos são voltados para o frontend, como estudo das linguaens de HTML e CSS e JavasScript
+Os projetos são voltados para o frontend, como estudo das linguaens de HTML e CSS e JavasScript.
 
 :memo: Login Helper
 =================
 
-Simples tela de Cadastro , utilizando JavasScript para manipular a animação da tela, para mostrar e ocultar o campo senha
+Simples tela de Cadastro , utilizando JavasScript para manipular a animação da tela, para mostrar e ocultar o campo senha.
 
 :interrobang: Guess Number
 =================
 Um mini game , onde atraves do JavaScript um numero de 1 a 10 a sorterado pelo algoritimo, o jogador deve dar palpites sobre o numero ate acertar o numero correto
-e acada erro o algoritimo, da uma dica informando se o numero sorteado foi inferior ou superior a resposta correta
+e acada erro o algoritimo, da uma dica informando se o numero sorteado foi inferior ou superior a resposta correta.
 
 :stars: Stardev
 =================
